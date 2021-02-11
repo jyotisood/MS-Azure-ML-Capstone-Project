@@ -129,7 +129,7 @@ Webservice Logs are enabled and can also be seen in the notebook itself.
 ![image](https://github.com/jyotisood/MS-Azure-ML-Capstone-Project/blob/main/AutoML/webservice-logs.png)
 
 ### Screencast Link
-
+Screencast is available [here:](https://vimeo.com/511275482)
 
 ## Standout Suggestions
 Enabled Application Insights which help in logging and monitoring of web service
